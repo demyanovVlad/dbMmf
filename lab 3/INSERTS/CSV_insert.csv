@@ -1,0 +1,9 @@
+ID,GROUP_NUM,SPECIALITY,BRANCH,NUM_OF_S,ID_P
+3,1,Production,Day,60,3
+4,9,Mobile,Day,30,4
+5,9,Mobile,Evening,80,5
+6,2,Web,Day,50,5
+7,2,Web,Evening,20,1
+8,5,Economics,Evening,25,1
+9,5,Economics,Day,31,10
+

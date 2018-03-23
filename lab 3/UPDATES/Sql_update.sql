@@ -1,0 +1,3 @@
+USE courses;
+UPDATE groups SET NUM_OF_S='65', BRANCH='EVENING'
+WHERE ID='3';
